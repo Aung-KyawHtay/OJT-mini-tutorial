@@ -4,6 +4,8 @@
       <h1 class="welcome-title">Welcome to Todo Manager</h1>
       <p class="welcome-subtitle">Manage your daily tasks easily.</p>
 
+      <h1>Test</h1>
+
       <div class="action-buttons">
         <RouterLink to="/todos" class="primary-btn">View Todo List</RouterLink>
         <RouterLink to="/api-test" class="secondary-btn">Test API</RouterLink>
